@@ -20,3 +20,12 @@ console.log('Multiplicação =', primeiroNumero * segundoNumero)
 console.log('Divisão =', primeiroNumero / segundoNumero)
 console.log('Exponenciação =', primeiroNumero ** segundoNumero)
 console.log('Resto de divisão =', primeiroNumero % segundoNumero)
+
+// Precedência de operadores
+console.log((3+7)*3)
+console.log((10+7+8)/3)
+
+//Biblioteca Math
+
+console.log(Math.PI)
+console.log(Math.sqrt(16))
