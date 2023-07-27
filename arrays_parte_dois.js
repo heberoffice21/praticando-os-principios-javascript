@@ -68,3 +68,19 @@ let arr3 = [1, 2, 3, 3, 5, 3]
 // console.log(arr3.indexOf(3))
 console.log(arr3.lastIndexOf(3))
 
+console.clear()
+
+// Descobrindo a existência de um elemento: includes
+
+console.log(arr1)
+
+console.log(arr1.includes(12))
+
+console.clear()
+// Invertendo arrays: reverse
+
+console.log('arr1 normal', arr1)
+
+const arr1Invertido = arr1.reverse()
+
+console.log('arr1 invertido', arr1Invertido)
